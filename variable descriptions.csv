@@ -1,0 +1,83 @@
+Variable Name,Description
+,
+activity_name,Activity Name
+participant_id,ID of subject
+tbodyaccmeanx,"Mean Time Body Acceleration, X direction"
+tbodyaccmeany,"Mean Time Body Acceleration, Y direction"
+tbodyaccmeanz,"Mean Time Body Acceleration, Z direction"
+tbodyaccstdx,"Std. Dev. of Time Body Acceleration, X direction"
+tbodyaccstdy,"Std. Dev. of Time Body Acceleration, Y direction"
+tbodyaccstdz,"Std. Dev. of Time Body Acceleration, Z direction"
+tgravityaccmeanx,"Mean Time Gravity Acceleration, X direction"
+tgravityaccmeany,"Mean Time Gravity Acceleration, Y direction"
+tgravityaccmeanz,"Mean Time Gravity Acceleration, Z direction"
+tgravityaccstdx,"Std. Dev. of Time Gravity Acceleration, X direction"
+tgravityaccstdy,"Std. Dev. of Time Gravity Acceleration, Y direction"
+tgravityaccstdz,"Std. Dev. of Time Gravity Acceleration, Z direction"
+tbodyaccjerkmeanx,"Mean Time Jerk Signal, X direction"
+tbodyaccjerkmeany,"Mean Time Jerk Signal, Y direction"
+tbodyaccjerkmeanz,"Mean Time Jerk Signal, Z direction"
+tbodyaccjerkstdx,"Std. Dev. Of Time Jerk Signal, X direction"
+tbodyaccjerkstdy,"Std. Dev. Of Time Jerk Signal, Y direction"
+tbodyaccjerkstdz,"Std. Dev. Of Time Jerk Signal, Z direction"
+tbodygyromeanx,"Mean Time Body Gyro Signal, X direction"
+tbodygyromeany,"Mean Time Body Gyro Signal, Y direction"
+tbodygyromeanz,"Mean Time Body Gyro Signal, Z direction"
+tbodygyrostdx,"Std. Dev. Of Time Body Gyro Signal, X direction"
+tbodygyrostdy,"Std. Dev. Of Time Body Gyro Signal, Y direction"
+tbodygyrostdz,"Std. Dev. Of Time Body Gyro Signal, Z direction"
+tbodygyrojerkmeanx,"Mean Time Gyroscopic Jerk Signal, X direction"
+tbodygyrojerkmeany,"Mean Time Gyroscopic Jerk Signal, Y direction"
+tbodygyrojerkmeanz,"Mean Time Gyroscopic Jerk Signal, Z direction"
+tbodygyrojerkstdx,"Std. Dev. Of Time Gyroscopic Jerk Signal, X direction"
+tbodygyrojerkstdy,"Std. Dev. Of Time Gyroscopic Jerk Signal, Y direction"
+tbodygyrojerkstdz,"Std. Dev. Of Time Gyroscopic Jerk Signal, Z direction"
+tbodyaccmagmean,Mean Time Body Accel. Magnitude
+tbodyaccmagstd,Std. Dev. Of Time Body Accel. Magnitude
+tgravityaccmagmean,Mean Time Gravity Accel. Magnitude
+tgravityaccmagstd,Std. Dev. Of Time Gravity Accel. Magnitude
+tbodyaccjerkmagmean,Mean of Time Body Accel. Jerk Magnitude
+tbodyaccjerkmagstd,Std. Dev. of Time Body Accel. Jerk Magnitude
+tbodygyromagmean,Mean of Time Body Gyro Magnitude
+tbodygyromagstd,Std. Dev. Of Time Body Gyro Magnitude
+tbodygyrojerkmagmean,Mean of Time Body Gyro Jerk Magnitude
+tbodygyrojerkmagstd,Std. Dev. of Time Body Gyro Jerk Magnitude
+fbodyaccmeanx,"Mean Frequency Body Acceleration, X direction"
+fbodyaccmeany,"Mean Frequency Body Acceleration, Y direction"
+fbodyaccmeanz,"Mean Frequency Body Acceleration, Z direction"
+fbodyaccstdx,"Std. Dev. of Frequency Body Acceleration, X direction"
+fbodyaccstdy,"Std. Dev. of Frequency Body Acceleration, Y direction"
+fbodyaccstdz,"Std. Dev. of Frequency Body Acceleration, Z direction"
+fbodyaccmeanfreqx,"Mean of Frequency Body Acceleration Mean Frequency, X direction"
+fbodyaccmeanfreqy,"Mean of Frequency Body Acceleration Mean Frequency, Y direction"
+fbodyaccmeanfreqz,"Mean of Frequency Body Acceleration Mean Frequency, Z direction"
+fbodyaccjerkmeanx,"Mean of Frequency Body Acceleration, X direction"
+fbodyaccjerkmeany,"Mean of Frequency Body Acceleration, Y direction"
+fbodyaccjerkmeanz,"Mean of Frequency Body Acceleration, Z direction"
+fbodyaccjerkstdx,"Std. Deviation of Frequency Body Jerk, X direction"
+fbodyaccjerkstdy,"Std. Deviation of Frequency Body Jerk, Y direction"
+fbodyaccjerkstdz,"Std. Deviation of Frequency Body Jerk, Z direction"
+fbodyaccjerkmeanfreqx,"Mean Frequency of Frequency Body Acceleration Jerk, X Direction"
+fbodyaccjerkmeanfreqy,"Mean Frequency of Frequency Body Acceleration Jerk, Y Direction"
+fbodyaccjerkmeanfreqz,"Mean Frequency of Frequency Body Acceleration Jerk, Z Direction"
+fbodygyromeanx,"Mean Frequency Body Gyro, X Direction"
+fbodygyromeany,"Mean Frequency Body Gyro, Y Direction"
+fbodygyromeanz,"Mean Frequency Body Gyro,  Z Direction"
+fbodygyrostdx,"Std. Dev. Of Frequency Body Gyro, X Direction"
+fbodygyrostdy,"Std. Dev. Of Frequency Body Gyro, Y Direction"
+fbodygyrostdz,"Std. Dev. Of Frequency Body Gyro,  Z Direction"
+fbodygyromeanfreqx,"Mean Frequency of Frequency Body Gyro, X Direction"
+fbodygyromeanfreqy,"Mean Frequency of Frequency Body Gyro, Y Direction"
+fbodygyromeanfreqz,"Mean Frequency of Frequency Body Gyro, Z Direction"
+fbodyaccmagmean,Mean Frequency Body Acceleration Magnitude
+fbodyaccmagstd,Std. Dev. Of Frequency Body Acceration Magnitude
+fbodyaccmagmeanfreq,Mean Frequency of Frequency Body Acceleration Magnitude
+fbodybodyaccjerkmagmean,Mean Frequency of Frequency Body Acceleration Jerk Magnitude
+fbodybodyaccjerkmagstd,
+fbodybodyaccjerkmagmeanfreq,
+fbodybodygyromagmean,
+fbodybodygyromagstd,
+fbodybodygyromagmeanfreq,
+fbodybodygyrojerkmagmean,
+fbodybodygyrojerkmagstd,
+fbodybodygyrojerkmagmeanfreq,
