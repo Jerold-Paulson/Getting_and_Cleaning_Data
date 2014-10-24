@@ -104,4 +104,4 @@ names(allTidyData) <- tolower(tidyNames)
 result = ddply(allTidyData, .(activity_name, participant_id), numcolwise(mean))
 
 # write file to output
-write.table(result, file="outputData.txt", sep = "\t", append=F)
+write.table(result, file="outputData.txt", sep = "\t", append=F,row.name=FALSE)

@@ -161,7 +161,7 @@ names(allTidyData) &lt;- tolower(tidyNames)</code></pre>
 result = ddply(allTidyData, .(activity_name, participant_id), numcolwise(mean))
 
 # write file to output
-write.table(result, file=&quot;outputData.txt&quot;, sep = &quot;\t&quot;, append=F)</code></pre>
+write.table(result, file=&quot;outputData.txt&quot;, sep = &quot;\t&quot;, append=F, row.name=FALSE)</code></pre>
 
 
 </div>
